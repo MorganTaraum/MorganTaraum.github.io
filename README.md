@@ -1,3 +1,6 @@
+# Docs
+https://chirpy.cotes.page/posts/write-a-new-post/
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
